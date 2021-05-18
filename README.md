@@ -1,2 +1,4 @@
 # AAA-CLASS
-PROJECT repository
+PROJECT repositorHy
+
+print("안녕하세요")
